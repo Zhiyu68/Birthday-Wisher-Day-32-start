@@ -5,8 +5,8 @@ import pandas
 import random
 import smtplib
 
-my_email = "zhiyuzhong666@gmail.com"
-password = "qlvuidfyhysbxgol"
+my_email = "# fill your email address"
+password = " #fill your password  "
 
 # 2. Check if today matches a birthday in the birthdays.csv
 # HINT 1: Create a tuple from today's month and day using datetime. e.g.
